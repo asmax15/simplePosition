@@ -1,6 +1,9 @@
-name: ExamplePlugin
+name: SimplePosition
 api-version: 1.16
 authors:
-  - Me
-main: com.example.exampleplugin
+  - AsMax
+main: me.asmax.simpleposition.SimplePosition
 version: @version@
+
+commands:
+   position:
